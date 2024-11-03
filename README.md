@@ -2,6 +2,7 @@
 # GUM - Meme Messaging App
 
 GUM is a web-based application designed for sharing memes and sending messages via WhatsApp. It allows users to view, share, and send funny memes to their contacts or groups directly from the app.
+![Screenshot 2024-11-03 224257](https://github.com/user-attachments/assets/e868eec8-b78c-4a0b-82c3-67d299c89abb)
 
 ## Features
 
@@ -26,4 +27,8 @@ GUM is a web-based application designed for sharing memes and sending messages v
 3. Feel free to modify any sections to better fit your app's specifics or your personal preferences.
 
 This README provides a comprehensive overview of your GUM app, making it easier for others to understand its purpose and how to use it.
+
+![Screenshot 2024-11-03 224305](https://github.com/user-attachments/assets/dd016a16-7ef5-486e-b6fc-1c8c76bfa5e1)
+
+
 
